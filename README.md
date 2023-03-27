@@ -51,7 +51,7 @@
       <td>Survey Form</td>
       <td><a href="https://github.com/axel-ac/find-the-number-game" target="_blank">Repo Details</td>
       <td><a href="https://html-css-survey-form.netlify.app/" target="_blank">Live App</td>
-      <td><img src="![survey-form](https://user-images.githubusercontent.com/102467587/227841539-87bce5d6-fdd6-4938-be5d-7a70b442e020.gif)" alt="Survey Form"></td>
+      <td><img src="https://user-images.githubusercontent.com/102467587/227841539-87bce5d6-fdd6-4938-be5d-7a70b442e020.gif" alt="Survey Form"></td>
     </tr>
     <tr>
       <td>Register Page Form</td>
