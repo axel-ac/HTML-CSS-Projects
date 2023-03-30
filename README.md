@@ -22,6 +22,11 @@
       <td><a href="https://github.com/axel-ac/Sass-project" target="_blank">Repo Details</td>
       <td><a href="https://axel-ac.github.io/Sass-project/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/219283604-7709569d-e7fa-4e46-8e3f-55b563f9d79c.gif" alt="Sass Website Page Design"></td>
+       <tr>
+      <td>Axel Website Page Design</td>
+      <td><a href="https://github.com/axel-ac/axel-website-page-design" target="_blank">Repo Details</td>
+      <td><a href="https://axel-website-page-design.netlify.app/" target="_blank">Live App</td>
+      <td><img src="https://user-images.githubusercontent.com/102467587/228660201-07498f57-30a8-4534-a22c-d3322d980b51.gif" alt="Website Page Design"></td>
     </tr>
       <tr>
       <td>Website Page Design</td>
@@ -49,7 +54,7 @@
     </tr>
     <tr>
       <td>Survey Form</td>
-      <td><a href="https://github.com/axel-ac/find-the-number-game" target="_blank">Repo Details</td>
+      <td><a href="https://github.com/axel-ac/survey-form" target="_blank">Repo Details</td>
       <td><a href="https://html-css-survey-form.netlify.app/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/227841539-87bce5d6-fdd6-4938-be5d-7a70b442e020.gif" alt="Survey Form"></td>
     </tr>
