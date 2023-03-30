@@ -61,7 +61,7 @@
     <tr>
       <td>Register Page Form</td>
       <td><a href="https://github.com/axel-ac/register-page-form" target="_blank">Repo Details</td>
-      <td><a https="https://axel-ac.github.io/register-page-form/" target="_blank">Live App</td>
+      <td><a href="https://axel-ac.github.io/register-page-form/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/209554664-c9f73601-0362-43b1-b2c9-c0f71e530917.gif" alt="Register Page Form"></td>
     </tr>
     <tr>
