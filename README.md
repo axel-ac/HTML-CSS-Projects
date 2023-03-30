@@ -37,13 +37,13 @@
     </tr>
     <tr>
       <td>Google Landing Page</td>
-      <td><a href="https://github.com/axel-ac/password-generator" target="_blank">Repo Details</td>
+      <td><a href="https://github.com/axel-ac/google-landing-page" target="_blank">Repo Details</td>
       <td><a href="https://axel-ac.github.io/google-landing-page/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/210113886-974f621f-7735-47f0-85db-4d4695f1e703.gif" alt="Google Landing Page"></td>
     </tr>
     <tr>
       <td>Netflix Project</td>
-      <td><a href="https://github.com/axel-ac/find-the-number-game" target="_blank">Repo Details</td>
+      <td><a href="https://github.com/axel-ac/netflix-project" target="_blank">Repo Details</td>
       <td><a href="https://axel-ac.github.io/netflix-project/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/209706463-7e130725-89ad-42c2-8817-9a947d12a215.gif" alt="Netflix Project"></td>
     </tr>
@@ -55,13 +55,13 @@
     </tr>
     <tr>
       <td>Register Page Form</td>
-      <td><a href="https://github.com/axel-ac/find-the-number-game" target="_blank">Repo Details</td>
-      <td><a href="https://axel-ac.github.io/netflix-project/" target="_blank">Live App</td>
+      <td><a href="https://github.com/axel-ac/register-page-form" target="_blank">Repo Details</td>
+      <td><a https:"https://axel-ac.github.io/register-page-form/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/209554664-c9f73601-0362-43b1-b2c9-c0f71e530917.gif" alt="Register Page Form"></td>
     </tr>
     <tr>
       <td>login Form</td>
-      <td><a href="https://github.com/axel-ac/find-the-number-game" target="_blank">Repo Details</td>
+      <td><a href="https://github.com/axel-ac/login-form" target="_blank">Repo Details</td>
       <td><a href="https://axel-ac.github.io/login-form/" target="_blank">Live App</td>
       <td><img src="https://user-images.githubusercontent.com/102467587/209473725-4c29c1c9-67b6-4a38-a605-677d20021a57.gif" alt="login Form"></td>
     </tr>
